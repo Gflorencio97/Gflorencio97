@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-Sou um **Desenvolvedor Web em formação** e entusiasta de TI, morando em **Nova Odessa, Brasil**.
+I'm an **aspiring Web Developer** and IT enthusiast based in **Nova Odessa, Brazil**.
 
-Gosto de entender como as coisas funcionam e resolver problemas, seja criando soluções em código, prestando suporte.
+I enjoy understanding how things work and solving problems, whether it's by building code solutions or providing technical support.
 
-Minha stack principal de estudos é **JavaScript**, **TypeScript**, **PHP** e **Laravel**. Minhas ferramentas favoritas são o **VS Code**, **Git/GitHub**
+My main tech stack currently includes **JavaScript**, **PHP**, and **Laravel**. My favorite tools are **VS Code** and **Git/GitHub**.
 
-Estou sempre construindo novos projetos de estudo. Dê uma olhada nos meus repositórios para ver minha evolução!
+I'm always building new projects to learn. Check out my repositories to see my progress!
 
-**Fatos Curiosos:**
+**Fun Facts:**
 
-* 🎮 Nas horas vagas gosto de jogar video-games e assistir filmes/séries.
-* 🌍 Falo Ingles, Italiano e Espanhol, e aprendendo Francês.
-* 💍 Sou fã da cultura Pop, especialmente **Senhor dos Anéis** e cultura Japonesa.
-* 🐶 Tenho um Husky Siberiano completame doido
+* 🎮 In my free time, I love playing video games and watching movies/TV series.
+* 🌍 I speak **English**, **Italian**, and **Spanish**, and I'm currently learning **French**.
+* 💍 I'm a big fan of Pop Culture, especially **The Lord of the Rings** and **Japanese culture**.
+* 🐶 I have a completely crazy **Siberian Husky**.
