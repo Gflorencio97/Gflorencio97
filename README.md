@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Gflorencio97/Gflorencio97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **Desenvolvedor Web em formação** e entusiasta de TI, morando em **Nova Odessa, Brasil**.
 
-Here are some ideas to get you started:
+Gosto de entender como as coisas funcionam e resolver problemas, seja criando soluções em código, prestando suporte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha stack principal de estudos é **JavaScript**, **TypeScript**, **PHP** e **Laravel**. Minhas ferramentas favoritas são o **VS Code**, **Git/GitHub**
+
+Estou sempre construindo novos projetos de estudo. Dê uma olhada nos meus repositórios para ver minha evolução!
+
+**Fatos Curiosos:**
+
+* 🎮 Nas horas vagas gosto de jogar video-games e assistir filmes/séries.
+* 🌍 Falo Ingles, Italiano e Espanhol, e aprendendo Francês.
+* 💍 Sou fã da cultura Pop, especialmente **Senhor dos Anéis** e cultura Japonesa.
+* 🐶 Tenho um Husky Siberiano completame doido
