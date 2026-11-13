@@ -12,5 +12,5 @@ I'm always building new projects to learn. Check out my repositories to see my p
 
 * 🎮 In my free time, I love playing video games and watching movies/TV series.
 * 🌍 I speak **English**, **Italian**, and **Spanish**, and I'm currently learning **French**.
-* 💍 I'm a big fan of Pop Culture, especially **The Lord of the Rings** and **Japanese culture**.
+* 💍 I'm in love with my beautiful girlfriend and big fan of Pop Culture, especially **The Lord of the Rings** and **Japanese culture**.
 * 🐶 I have a completely crazy **Siberian Husky**.
